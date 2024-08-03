@@ -29,7 +29,7 @@ Here is a list of my talks and presentations:
 
 - **Combining Dual-Readout Crystals and Fibers in a Hybrid Calorimeter for Future $e^+e^-$ Higgs Factories**
   [Slides](https://indico.cern.ch/event/847884/timetable/?view=standard#206-homogeneous-dual-readout-e){: .btn} 
-  *Talk presented at the 19th International Conference on Calorimetry in Particle Physics, *  
+  *Talk presented at the 19th International Conference on Calorimetry in Particle Physics*  
   University of Sussex, Brighton, UK
   May 2022
 
