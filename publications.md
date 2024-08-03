@@ -13,11 +13,10 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
   *submitted to JHEP*.
   [Preprint](https://arxiv.org/abs/2404.08462){: .btn} 
 
-- **On speaker attribution with SURT**  
-  **Desh Raj**, Matthew Wiesner, Matthew Maciejewski, Paola Garcia, Daniel Povey, Sanjeev Khudanpur  
-  *Speaker Odyssey 2024*  
-  [Paper](https://arxiv.org/abs/2401.15676){: .btn}
-  [Slides](/static/ppt/odyssey24_surt.pdf){: .btn} 
+- **Search for Higgs boson pair production with one associated vector boson**  
+  **CMS Collaboration**  
+  *submitted to JHEP*  
+  [Preprint](https://arxiv.org/abs/2404.08462){: .btn}
 
 - **Constraints on the Higgs boson self-coupling from the combination of single and double Higgs boson production in proton-proton collisions at $\sqrt{s}$ = 13 TeV**  
   **CMS Collaboration**.
