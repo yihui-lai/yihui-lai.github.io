@@ -6,9 +6,13 @@ title: Talks
 Here is a list of my talks and presentations:
 
 
-- **Searching for non-resonant VHH production and $W\gamma$ resonance**
+- **Searching for non-resonant VHH production and W\gamma resonance**
   *Ph.D. thesis defense*  
   College Park, USA
+  July 2024
+
+- **Searching for non-resonant VHH production and Wgamma resonance**
+  *PhD Thesis Defense*  
   July 2024
 
 - **Searching for Rare Higgs Boson Pair Production with a Vector Boson**

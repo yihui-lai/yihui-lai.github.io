@@ -8,9 +8,9 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
 
 **2024**
 
-- **Search for Higgs boson pair production with one associated vector boson in proton-proton collisions at $\sqrt{s}$ = 13 TeV**  
-  **CMS Collaboration**.
-  *submitted to JHEP*.
+- **Search for Higgs boson pair production with one associated vector boson in proton-proton collisions at \sqrt{s} = 13 TeV**  
+  **CMS Collaboration**
+  *submitted to JHEP*
   [Preprint](https://arxiv.org/abs/2404.08462){: .btn} 
 
 - **Search for Higgs boson pair production with one associated vector boson**  
