@@ -13,11 +13,6 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
   *submitted to JHEP*
   [Preprint](https://arxiv.org/abs/2404.08462){: .btn} 
 
-- **Search for Higgs boson pair production with one associated vector boson**  
-  **CMS Collaboration**  
-  *submitted to JHEP*  
-  [Preprint](https://arxiv.org/abs/2404.08462){: .btn}
-
 - **Constraints on the Higgs boson self-coupling from the combination of single and double Higgs boson production in proton-proton collisions at $\sqrt{s}$ = 13 TeV**  
   **CMS Collaboration**.
   *submitted to PLB*.
@@ -36,7 +31,6 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
   Selected as editor’s suggestion
   [Paper](https://doi.org/10.1103/PhysRevD.109.092011){: .btn}
   [Preprint](https://arxiv.org/abs/2312.07562){: .btn}
-
 
 **2022**
 
