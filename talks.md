@@ -6,10 +6,23 @@ title: Talks
 
 <div class="talks-header">
   <p class="talks-description">Here is a list of my talks and presentations:</p>
-  <p class="last-updated">Last updated: December 20, 2025</p>
 </div>
 
 <div class="talks-timeline">
+
+  <div class="year-section" id="year-2025">
+    <div class="year-header">
+      <h2 class="year-title">2025</h2>
+    </div>
+
+    <div class="talks-list">
+      <div class="talk-item">
+        <h3 class="talk-title">Recent results on heavy resonances at CMS</h3>
+        <div class="talk-info">Talk presented at the Lepton-Photon 2025 conference—  Madison, Wisconsin —Aug. 2025</div>
+      </div>
+    </div>
+  </div>
+
 
   <div class="year-section" id="year-2024">
     <div class="year-header">
